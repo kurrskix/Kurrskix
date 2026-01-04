@@ -1,5 +1,5 @@
 ## Hi there 👋
- # Hi, I'm Haitam 👋
+ # Hello, I'm Haitam 
 
 💻 Front-End Developer  
 🌱 Learning JavaScript fundamentals

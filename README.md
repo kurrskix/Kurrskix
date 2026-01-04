@@ -1,16 +1,20 @@
 ## Hi there 👋
+ # Hi, I'm Haitam 👋
 
-<!--
-**kurrskix/Kurrskix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer  
+🌱 Learning JavaScript fundamentals
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Responsive websites with HTML & CSS
+- JavaScript basics (DOM, events)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- HTML5, CSS3, JavaScript
+- Git, GitHub, VS Code
+
+## 🎯 Fun Fact
+- I enjoy turning simple ideas into clean, responsive designs ✨
+
+## 📫 Contact
+- GitHub: https://github.com/Kurrskix
+- Email:Haitambenh@gmail.com
